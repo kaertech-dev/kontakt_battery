@@ -1,0 +1,4 @@
+MinV = 1.55
+MaxV = 1.65
+test mode = Development
+PORT= COM6
